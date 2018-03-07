@@ -79,3 +79,12 @@ h3 {
     font-size: 18px;
   }
 }
+li {
+    display: inline;
+}
+li a {
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
