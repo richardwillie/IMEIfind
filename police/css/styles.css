@@ -1,0 +1,22 @@
+body {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: rgb(23, 205, 230);
+}
+
+header {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 60px
+}
+
+h3 {
+  color: rgb(156, 244, 213);
+}
+
+.container-1 {
+  color: rgb(199, 204, 241);
+  margin: 30px;
+}
