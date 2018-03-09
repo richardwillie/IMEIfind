@@ -6,17 +6,20 @@ body {
   color: rgb(23, 205, 230);
 }
 
-header {
-  color: rgb(255, 255, 255);
+.header {
   text-align: center;
-  font-size: 60px
+  font-size: 20px;
+  color: white;
+  background-colour: white;
 }
 
 h3 {
   color: rgb(156, 244, 213);
 }
 
-.container-1 {
-  color: rgb(199, 204, 241);
+.container {
+  color: black;
   margin: 30px;
+  background-color: white;
+  border-radius: 20px;
 }
