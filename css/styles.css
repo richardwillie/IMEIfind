@@ -13,18 +13,12 @@ header {
 
 h2 {
   color: rgb(156, 244, 213);
-}
 
-<<<<<<< HEAD
 h3 {
   color: white;
   text-decoration: underline;
 }
-
-.container fluid {
-=======
 .container-1 {
->>>>>>> development
   color: rgb(199, 204, 241);
   margin: 30px;
 }
