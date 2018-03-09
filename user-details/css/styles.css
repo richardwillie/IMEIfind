@@ -11,4 +11,10 @@ h3 {
 .container {
   color: rgb(199, 204, 241);
   margin: 30px;
+  background-color: white;
+}
+
+.header {
+  background-color: white;
+  opacity: 0.6;
 }

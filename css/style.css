@@ -1,0 +1,35 @@
+body {
+  background-image: url("../img/phone.jpg");
+  background-color: #ccc;
+  background-position: center;
+  background-size: cover;
+  font-size: 20px;
+  color: white
+}
+
+.overlay {
+  background-image: url("../img/phone.jpg");
+  opacity: 0.89;
+}
+
+header {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 60px
+}
+
+h3 {
+  color: white;
+  font-style: oblique;
+  text-decoration: underline;
+}
+
+h2 {
+  color: rgb(81, 240, 184);
+  h3 {
+    color: white;
+    text-decoration: underline;
+  }
+  .btn-success {
+    color: rgb(81, 240, 184)
+  }
