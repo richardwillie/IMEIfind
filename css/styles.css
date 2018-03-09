@@ -2,7 +2,7 @@ body {
   background-image: repeating-linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), "img/phone.jpg";
   background-size: cover;
   background-position: center;
-  color: lime
+  color: rgb(156, 244, 213)
 }
 
 header {
@@ -15,16 +15,16 @@ h2 {
   color: rgb(156, 244, 213);
 }
 
-<<<<<<< HEAD
 h3 {
   color: white;
   text-decoration: underline;
 }
 
-.container fluid {
-=======
-.container-1 {
->>>>>>> development
-  color: rgb(199, 204, 241);
-  margin: 30px;
-}
+.container-fluid {
+  =======.container-1 {
+    >>>>>>>development color: rgb(199, 204, 241);
+    margin: 30px;
+  }
+  container-1 {
+    padding-left: 20px;
+  }
